@@ -1,5 +1,6 @@
 # Sitecore.Support.374742
-Wrong sort order of the subitems
+Wrong sort order of the subitems.
+If parent item has Subitems Sorting set to Created or Reverse value and you use manual sorting (Up & Down buttons), the order of the subitems will be wrong.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.374742/blob/master/LICENSE).  
